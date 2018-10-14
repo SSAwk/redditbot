@@ -1,3 +1,4 @@
+#Simple automated reply bot
 import praw
 import config
 import os
