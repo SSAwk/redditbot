@@ -1,1 +1,1 @@
-# Projects
+# Reddit bot
